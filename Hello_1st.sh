@@ -1,1 +1,3 @@
-Hello i am 1st
+#!/bin/bash
+
+echo "Helloo"
